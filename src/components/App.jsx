@@ -97,7 +97,8 @@ export class App extends Component {
           width="500"
           color="#e33b09"
           ariaLabel="hearts-loading"
-          wrapperStyle={{}}
+          wrapperStyle={{
+          }}
           wrapperClass=""
           visible={true}
           />
